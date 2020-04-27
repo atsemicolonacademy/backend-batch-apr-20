@@ -9,6 +9,10 @@ css
 
 ## Images added
 # Home page
+![Template Image](./home.jpg)
 # Registration Page
+![Template Image](./reg.jpg)
 # Login Page
+![Template Image](./login.jpg)
 # contact page
+![Template Image](./contact.jpg)
