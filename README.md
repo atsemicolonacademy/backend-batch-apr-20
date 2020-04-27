@@ -1,6 +1,6 @@
-# backend-batch-apr-20
+## backend-batch-apr-20
 
-# It has simple front end with login form and registration form 
+## It has simple front end with login form and registration form 
 [Click here to view the site](https://zen-mirzakhani-12ea10.netlify.app/)
 
 ## Languages Used
@@ -8,11 +8,11 @@ Html,
 css
 
 ## Images added
-# Home page
+# Home page Image
 ![Template Image](./home.jpg)
-# Registration Page
+# Registration Page Image
 ![Template Image](./reg.jpg)
-# Login Page
+# Login Page Image
 ![Template Image](./login.jpg)
-# contact page
+# contact page Image
 ![Template Image](./contact.jpg)
