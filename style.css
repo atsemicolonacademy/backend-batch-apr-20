@@ -43,33 +43,30 @@ border-left: teal;
 margin-left: 40px;
 }
 
-.ba button{
- 
-    background-color: teal;
-}
 .py{
     border-width: 10px;
     background-color: turquoise;
-
+margin-left: 10px;
 } 
 .c{
     border-width: 10px;
     background-color: palevioletred;
-
+margin-left: 10px;
 }
 .ja
 {
     border-width: 10px;
     background-color: skyblue;
-
+margin-left: 10px;
 }
 .c plus {
     border-width: 10px;
     background-color:burlywood;
+    margin-left: 10px;
 }
 .md
 {
     border-width: 10px;
     background-color: lightgreen;
-
+margin-left: 10px;
 }
