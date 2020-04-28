@@ -54,7 +54,7 @@ margin-left: 40px;
 } 
 .c{
     border-width: 10px;
-    background-color:blue;
+    background-color: palevioletred;
 
 }
 .ja
@@ -62,15 +62,14 @@ margin-left: 40px;
     border-width: 10px;
     background-color: skyblue;
 
-
 }
 .c plus {
     border-width: 10px;
-    background-color: turquoise;
+    background-color:burlywood;
 }
 .md
 {
     border-width: 10px;
-    background-color:blue;
+    background-color: lightgreen;
 
 }
