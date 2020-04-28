@@ -81,24 +81,26 @@ margin-left: 10px;
 {
     background-color: cadetblue;
 width: 30px;
+padding: 20px;
+
 }
-.in button
-{
+.dropdown{
+    background-color: gray;
+    color: wheat;
+    position: absolute;
     display: inline-block;
-    background-color: cadetblue;
-    width: 10px;
-    text-align: center;
-   color: white;
+    z-index: 1;
+}
+.share:hover, .dropdown:hover .dropcont
+{
+    display: block;
+background-color: greenyellow;
+
 
 }
 .dropcont{
-    background-color: gray;
-    position: absolute;
-    display: block;
+    background-color: peru;
+    display: absolute;
+    width: 10px;
 }
-.share button:hover .dropcont
-{
-    background-color: gray;
-    width: 30px;
-    font-style: italic;
-}
+
