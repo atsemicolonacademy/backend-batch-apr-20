@@ -10,3 +10,33 @@ float: right;
     height: 2px;
     float: left;
 }
+.content
+{
+    background-color: springgreen;
+    text-align: left;
+    font-size: 16px;
+font-style: oblique;
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+}
+
+.footer{
+    background-color: tomato;
+}
+.footer button{
+    width: 50px;
+    padding-top: 20px;
+    margin-left: 500px;
+
+}
+.reg button{
+    width: 70px;
+    align-self: center;
+}
+.l button
+{
+    background-color: yellow;
+border-width: 20pc;
+}
