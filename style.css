@@ -77,12 +77,17 @@ margin-left: 10px;
  .image img:hover {
     box-shadow: gold;
 } 
-.share
+.share button
 {
-    border-radius: 10cm;
-
+    background-color: cadetblue;
+width: 30px;
 }
-.share img:hover
+.in button
 {
-    box-shadow: brown;
+    display: inline;
+    background-color: cadetblue;
+    width: 10px;
+    text-align: center;
+   color: white;
+
 }
