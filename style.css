@@ -84,23 +84,6 @@ width: 70px;
 padding: 20px;
 text-align: center;
 }
-.dropdown{
-    background-color: gray;
-    color: wheat;
-    position: absolute;
-    display: inline-block;
-    z-index: 1;
-}
-.share:hover, .dropdown:hover .dropcont
-{
-    display: block;
-background-color: greenyellow;
-
-
-}
-.dropcont{
-    background-color: peru;
-    display: absolute;
-    width: 10px;
-}
+@import './fbk.png';
+@import './twitter.png'
 
