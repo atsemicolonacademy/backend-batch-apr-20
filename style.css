@@ -80,9 +80,9 @@ margin-left: 10px;
 .share button
 {
     background-color: cadetblue;
-width: 30px;
+width: 70px;
 padding: 20px;
-
+text-align: center;
 }
 .dropdown{
     background-color: gray;
