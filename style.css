@@ -2,7 +2,7 @@
 background-color: cornflowerblue;
 width: 1px;
 height: 2px;
-float: right;
+float: centre;
 }
 .op{
     background-color: cornflowerblue;
@@ -16,7 +16,7 @@ float: right;
     text-align: left;
     font-size: 16px;
 font-style: oblique;
-margin-top: 10px;
+margin-top: 200px;
 margin-left: 10px;
 margin-bottom: 10px;
 margin-right: 10px;
@@ -24,10 +24,12 @@ margin-right: 10px;
 
 .footer{
     background-color: tomato;
+    margin-top: 300px;
 }
 .footer button{
     width: 50px;
-    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
     margin-left: 500px;
 
 }
