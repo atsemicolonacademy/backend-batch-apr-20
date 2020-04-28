@@ -70,3 +70,19 @@ margin-left: 10px;
     border-width: 10px;
     margin-left: 10px;
 }
+.image{
+    border: black;
+    display: block;
+}
+ .image img:hover {
+    box-shadow: gold;
+} 
+.share
+{
+    border-radius: 10cm;
+
+}
+.share img:hover
+{
+    box-shadow: brown;
+}
