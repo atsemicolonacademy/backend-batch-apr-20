@@ -53,11 +53,9 @@ margin-left: 40px;
 
 
 .share button
-{
-    background-color: darkblue;
+{margin-left: 10px;
+    background-color:beige;
 width: 75px;
-padding: 20px;
-text-align: center;
 }
 .fb img:hover{
 opacity: 0.7;    
@@ -70,5 +68,4 @@ box-shadow: black ;
 .so
 {
     display: table-row-group;
-    margin-left: 525px;
 }
