@@ -3,7 +3,7 @@
 background-color: yellow;
 float: centre;
 }
-
+ 
     @import './social.png';
     
 .op{
@@ -70,13 +70,7 @@ margin-left: 10px;
     border-width: 10px;
     margin-left: 10px;
 }
-.image{
-    border: black;
-    display: block;
-}
- .image img:hover {
-    box-shadow: gold;
-} 
+
 .share button
 {
     background-color: cadetblue;
