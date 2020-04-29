@@ -4,7 +4,6 @@ background-color: yellow;
 float: centre;
 }
  
-    @import './social.png';
     
 .op{
     background-color: cornflowerblue;
@@ -15,16 +14,20 @@ float: centre;
 }
 .content
 {
-    background-color: springgreen;
+    background-image: image("nature.png");
+padding-top: 15px;
+    background-color: darkorange;
     text-align: left;
     font-size: 16px;
-font-style: oblique;
-margin-top: 250px;
+font-style: italic;
+margin-top: 58px;
 }
-
+@import './nature.png';
 .footer{
-    background-color: tomato;
-    margin-top: 100px;
+
+    margin-top: 10px;
+    padding-bottom: 1px;
+    padding-top: 5px;
 }
 .footer button{
     width: 50px;
@@ -48,29 +51,6 @@ border-left: teal;
 margin-left: 40px;
 }
 
-.py{
-    border-width: 10px;
-    margin-left: 10px;
-} 
-.c{
-    border-width: 10px;
-margin-left: 10px;
-}
-.ja
-{
-    border-width: 10px;
-    margin-left: 10px;
-}
-.c plus {
-    border-width: 10px;
-    
-    margin-left: 10px;
-}
-.md
-{
-    border-width: 10px;
-    margin-left: 10px;
-}
 
 .share button
 {
@@ -79,8 +59,6 @@ width: 75px;
 padding: 20px;
 text-align: center;
 }
-@import './fbk.png';
-@import './twitter.png';
 .fb img:hover{
 opacity: 0.7;    
 box-shadow: black ;
@@ -98,9 +76,9 @@ box-shadow: black ;
     margin-top: 10px;
     margin-bottom: 70px;
 }
-.so{
-    display: inline-block;
-    margin-top: 10px;
+.li
+{
+    margin-top: 1px;
 }
 
 
