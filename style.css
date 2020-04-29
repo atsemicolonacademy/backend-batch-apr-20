@@ -20,9 +20,8 @@ padding-top: 15px;
     text-align: left;
     font-size: 16px;
 font-style: italic;
-margin-top: 58px;
+margin-top: 100px;
 }
-@import './nature.png';
 .footer{
 
     margin-top: 10px;
@@ -66,14 +65,3 @@ width: 75px;
     margin-left: 10px;
     display: -moz-inline-grid;
 }
-.overlap{
-
-background: url("fl.png");
-background-size: cover;
-backface-visibility: visible;
-opacity: 5;
- font-style: inherit;
- font-weight: bolder ;
- text-align: left;
-}
-
