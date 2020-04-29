@@ -69,8 +69,13 @@ width: 75px;
 .nature{
 
     height: 500px;
-    width: 500px;
+    width: 1000px;
 }
+.nature img{
+    width: 100px;
+    height: 500px;
+    }
+
 .overlap{
     background: url(nature.png) center fixed no-repeat;
     position: absolute;
