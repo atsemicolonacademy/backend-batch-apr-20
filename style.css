@@ -71,16 +71,18 @@ max-width: 800px;
 position: relative;
 }
 .overlap{
+    background: url("nature.png");
+    background-size: cover;
  font-style: italic;
- text-align: center;
+ text-align: left;
 }
 
-.nature .overlap{
+.nature .overlap {
     position: absolute;
-    background: url(nature.png);
-    background-color: gray;
      top: 10px;
-    bottom: 10px;
+    bottom: 0px;
+    width: 100%;
+    padding-top: 10px;
     right: 10px;
     left: 10px;
     text-align: center;
