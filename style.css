@@ -66,32 +66,15 @@ width: 75px;
     margin-left: 10px;
     display: -moz-inline-grid;
 }
-.nature{
-
+.nature {
+max-width: 800px;
 position: relative;
 }
-
-.overlap h1{
-    position: absolute;
-    background-color: gray;
-     top: 10px;
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
-    text-align: center;
-
+.nature img{
+    vertical-align: middle;
 }
-.overlap h2{
-    position: absolute;
-    background-color: gray;
-     top: 10px;
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
-    text-align: center;
 
-}
-.overlap h3{
+.nature .overlap{
     position: absolute;
     background-color: gray;
      top: 10px;
