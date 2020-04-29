@@ -1,9 +1,11 @@
 
 .header{
-    @import './social.png'
 background-color: yellow;
 float: centre;
 }
+
+    @import './social.png';
+    
 .op{
     background-color: cornflowerblue;
     width: 1px;
