@@ -53,19 +53,11 @@ margin-left: 40px;
 
 
 .share button
-{margin-left: 10px;
+{margin-left: 0px;
     background-color: firebrick;
 width: 75px;
 }
-.fb img:hover{
-opacity: 0.7;    
-box-shadow: black ;
-}
-.twit img:hover{
-    opacity: 0.7;
-    box-shadow: black;
-}
-.so
-{
+.so img:hover
+{ opacity: 0.7;
     display: table-row-group;
 }
