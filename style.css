@@ -70,12 +70,14 @@ width: 75px;
 max-width: 800px;
 position: relative;
 }
-.nature img{
-    vertical-align: middle;
+.overlap{
+ font-style: italic;
+ text-align: center;
 }
 
 .nature .overlap{
     position: absolute;
+    background: url(nature.png);
     background-color: gray;
      top: 10px;
     bottom: 10px;
