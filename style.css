@@ -66,16 +66,11 @@ width: 75px;
     margin-left: 10px;
     display: -moz-inline-grid;
 }
-.nature{
-opacity: 0.5;
-position: relative;
-height: 90px;
-width: 70px;
-}
 .overlap{
+    background: url(nature.png) center fixed no-repeat;
     position: absolute;
-    height: 60px;
-    top: 10px;
+    background-color: gray;
+     top: 10px;
     bottom: 10px;
     right: 10px;
     left: 10px;
