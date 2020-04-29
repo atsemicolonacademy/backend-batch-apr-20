@@ -13,7 +13,7 @@ float: centre;
 }
 .content
 {
-    background-image: url("nature.png");
+    @import url("social.png");
     background-color: springgreen;
     text-align: left;
     font-size: 16px;
