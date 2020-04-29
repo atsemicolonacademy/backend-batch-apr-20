@@ -68,16 +68,10 @@ width: 75px;
 }
 .nature{
 
-    height: 500px;
-    width: 1000px;
+position: relative;
 }
-.nature img{
-    width: 100px;
-    height: 500px;
-    }
 
-.overlap{
-    background: url(nature.png) center fixed no-repeat;
+.overlap h1{
     position: absolute;
     background-color: gray;
      top: 10px;
@@ -87,4 +81,23 @@ width: 75px;
     text-align: center;
 
 }
-.nature
+.overlap h2{
+    position: absolute;
+    background-color: gray;
+     top: 10px;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+
+}
+.overlap h3{
+    position: absolute;
+    background-color: gray;
+     top: 10px;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+
+}
