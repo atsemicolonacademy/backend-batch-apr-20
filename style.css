@@ -67,9 +67,19 @@ width: 75px;
     display: -moz-inline-grid;
 }
 .nature{
-    opacity: 0.7;
+opacity: 0.5;
+position: relative;
+height: 90px;
+width: 70px;
 }
-.nature img:hover .overlay{
-    height: 70px;
-    width: 70px;
+.overlap{
+    position: absolute;
+    height: 60px;
+    top: 10px;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+
 }
+.nature
