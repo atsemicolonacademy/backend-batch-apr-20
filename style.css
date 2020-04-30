@@ -4,14 +4,7 @@ background-color: yellow;
 float: centre;
 }
  
-    
-.op{
-    background-color: cornflowerblue;
-    width: 1px;
-    height: 2px;
-    float: left;
-    margin-top: 50px;
-}
+
 .content
 {
 
@@ -64,4 +57,14 @@ width: 75px;
 .so{
     margin-left: 10px;
     display: -moz-inline-grid;
+}
+.overlap{
+    background: url(fl.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    font-size: 10pt;
+    right: 10px;
+    left: 10px;
+    top: 10px;
+    bottom: 10px;
 }
